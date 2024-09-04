@@ -26,7 +26,6 @@ set( SOURCE_FILES
 	${PROJECT_NAME}.h
 	"${CMAKE_CURRENT_SOURCE_DIR}/../../GrainflowLib/include/gfUtils.h"
 	"${CMAKE_CURRENT_SOURCE_DIR}/../../GrainflowLib/include/gfSyn.h"
-	"${CMAKE_CURRENT_SOURCE_DIR}/../../GrainflowLib/include/gfTables.h"
 )
 
 
